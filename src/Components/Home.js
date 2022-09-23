@@ -7,12 +7,12 @@ import { Projekter } from './Projekter';
 export default class Home extends Component {
     render() {
         return (
-            <div>
+            <>
                 <Banner></Banner>
                 <Kompetencer></Kompetencer>
                 <Reference></Reference>
                 <Projekter></Projekter>
-            </div>
-        )
+            </>
+        );
     }
 }

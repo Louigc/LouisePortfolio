@@ -42,21 +42,21 @@ export default class NavbarComp extends Component {
                 </div>
                 <div>
                     <Switch>
+                    <Route path="/home">
+                            <Home />
+                        </Route>
                         <Route path="/about">
                             <About />
                         </Route>
-                        <Route path="/contact">
+                        <Route path="/contact" >
                             <Contact />
                         </Route>
                         <Route path="/portfolio">
                             <Portfolio />
                         </Route>
-                        <Route path="/home">
-                            <Home />
-                        </Route>
                     </Switch>
                 </div>
             </Router>
-        )
+        );
     }
 }

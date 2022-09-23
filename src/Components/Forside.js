@@ -13,6 +13,6 @@ export default class Forside extends Component {
                 <Reference></Reference>
                 <Projekter></Projekter>
             </div>
-        )
+        );
     }
 }

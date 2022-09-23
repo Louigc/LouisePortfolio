@@ -18,6 +18,6 @@ export default class Footer extends Component {
                 </Row>
             </Container>
         </footer>
-        )
+        );
     }
 }

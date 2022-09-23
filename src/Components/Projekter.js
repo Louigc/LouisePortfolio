@@ -43,5 +43,5 @@ export const Projekter = () => {
                 </Row>
             </Container>
         </section>
-    )
+    );
 }

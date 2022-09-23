@@ -20,26 +20,25 @@ export const PortItem = () => {
         <section className="portitem">
             <Container>
                 <Row>
-                    <Col>
-                    <h2 className="heading">Portfolio</h2>
-                    <p className="porti_text">Under min uddannelsen som multimediedesigner har jeg på de sidste 3 semestre arbejdet med mange forskellige projekter. <br></br>Her er nogle eksempler på det, som jeg blandt andet arbejdet med 📝</p>
-                    <hr className="hr1"></hr>
-                    <br></br>
-                    </Col>
+                        <Col>
+                            <h2 className="heading">Portfolio</h2>
+                            <p className="porti_text">Under min uddannelsen som multimediedesigner har jeg på de sidste 3 semestre arbejdet med mange forskellige projekter. <br></br>Her er nogle eksempler på det, som jeg blandt andet arbejdet med 📝</p>
+                            <hr className="hr1"></hr>
+                            <br></br>
+                        </Col>
                     <Row>
                     <section className="container portfolio_container">
                         <div>
-		                {posts.map(post => (
-		            <PortoItem key={post.id} post={post} />
-                    ))}
-                    </div>
+		                    {posts.map(post => (
+		                    <PortoItem key={post.id} post={post} />
+                            ))}
+                        </div>
                     </section>
-
                     <Col>
                     </Col>
                     </Row>
                 </Row>
             </Container>
         </section>
-    )
+    );
  }

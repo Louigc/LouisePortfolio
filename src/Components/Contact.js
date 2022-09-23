@@ -69,6 +69,6 @@ export default class Contact extends Component {
                 </Row>
             </Container>
         </section>
-    )
+        );
     }
 }   

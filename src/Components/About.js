@@ -7,7 +7,7 @@ import { Skills } from './Skills';
 export default class About extends Component {
     render() {
         return (
-                    <section className="about component_space" id="aboutme">
+                <section className="about component_space" id="aboutme">
                         <Container>
                             <Row className="row2">
                                 <Col>
@@ -44,7 +44,7 @@ export default class About extends Component {
                         </Container>
                         <br></br>
                         <Skills></Skills>
-                    </section>
-                )
-            }
+                </section>
+            );
         }
+    }

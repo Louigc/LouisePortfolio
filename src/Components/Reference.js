@@ -17,5 +17,5 @@ return (
         </Row>
     </Container>
 </section>
-)
+    );
 }
