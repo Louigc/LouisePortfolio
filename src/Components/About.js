@@ -47,4 +47,4 @@ export default class About extends Component {
                     </section>
                 )
             }
-}
+        }

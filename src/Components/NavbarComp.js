@@ -35,9 +35,7 @@ export default class NavbarComp extends Component {
                                 <Nav.Link as={Link} to="/about">Om mig</Nav.Link>
                                 <Nav.Link as={Link} to="/portfolio">Portfolio</Nav.Link>
                                 <Nav.Link href="#contact">Kontakt mig</Nav.Link>
-
                             </Nav>
-
                         </Navbar.Collapse>
                      </Container>
                     </Navbar>
