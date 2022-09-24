@@ -219,7 +219,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .banner{
   margin-top: 0;
-  padding: 260px 0 100px 0;
+  padding: 200px 0 100px 0;
   background-image: url('./Assets/img/wallpaper.png');
   background-attachment: fixed;
   background-position: center;

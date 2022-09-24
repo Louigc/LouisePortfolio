@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.6592ef22.css",
-    "main.js": "/static/js/main.922b284a.js",
+    "main.css": "/static/css/main.f3d086c5.css",
+    "main.js": "/static/js/main.5ec31997.js",
     "static/js/787.a176cd0c.chunk.js": "/static/js/787.a176cd0c.chunk.js",
     "static/media/wallpaper.png": "/static/media/wallpaper.f9b946efe490117c6b50.png",
-    "static/media/louiseforsideub.png": "/static/media/louiseforsideub.c32df2c5ffe4e308337c.png",
     "static/media/louise2.png": "/static/media/louise2.4e3d66ad7857e7a3675f.png",
     "static/media/louise.png": "/static/media/louise.a4b01d0ccf2bff4eff73.png",
+    "static/media/louiseforsideub.png": "/static/media/louiseforsideub.5773402f33eaa8864963.png",
     "static/media/kontaktimg.png": "/static/media/kontaktimg.8a61a4213686d5682156.png",
     "static/media/OoohBaby-Regular-kopi.ttf": "/static/media/OoohBaby-Regular-kopi.28f4271a28930d583d37.ttf",
     "static/media/CentraNo2-Bold-kopi.ttf": "/static/media/CentraNo2-Bold-kopi.2faff7f7d3fc92a2fcd9.ttf",
@@ -22,12 +22,12 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.6592ef22.css.map": "/static/css/main.6592ef22.css.map",
-    "main.922b284a.js.map": "/static/js/main.922b284a.js.map",
+    "main.f3d086c5.css.map": "/static/css/main.f3d086c5.css.map",
+    "main.5ec31997.js.map": "/static/js/main.5ec31997.js.map",
     "787.a176cd0c.chunk.js.map": "/static/js/787.a176cd0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6592ef22.css",
-    "static/js/main.922b284a.js"
+    "static/css/main.f3d086c5.css",
+    "static/js/main.5ec31997.js"
   ]
 }
