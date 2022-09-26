@@ -49,7 +49,7 @@ export const Kompetencer = () => {
                             </div> 
                             <div className="projekt_meta">
                                 <h1 className="projekthead">SoMe</h1>
-                                <p className="projekttekst"> Super mulighed for virksomheder at promovere sig på de sociale medier, da mange potentielle kunder benytter sig af disse.
+                                <p className="projekttekst"> God mulighed for virksomheder at promovere sig på de sociale medier, da mange potentielle kunder benytter sig af disse.
                                     Jeg har erfaring med: Instagram, Twitter, Facebook og TikTok.</p>
                             </div>
                         </div>

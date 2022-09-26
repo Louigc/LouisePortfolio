@@ -12,7 +12,7 @@ export default class About extends Component {
                             <Row className="row2">
                                 <Col>
                                     <img src={aboutImg} alt="Billede af mig" className="about_img"></img>
-                                    <h1 className="navn">LOUISE GULDBÆK CHRISTIANSEN</h1>
+                                    <h1 className="navn">LOUISE <span>GULDBÆK</span> CHRISTIANSEN</h1>
                                     <hr className='hr3'></hr>
                                     <br></br>
                                     <img src={louise2} alt="Louise sidder udenfor" className="om_img"></img>
@@ -21,7 +21,7 @@ export default class About extends Component {
                                     <h1 className="aboutheading">Hvem er jeg?</h1>
                                     <div className="aboutme">   
                                         <p className="aboutmetext">
-                                        Hejsa! Mit navn er Louise og jeg er 24 år gammel, og til dagligt studerer jeg Multimediedesign på 3. semester på Erhvervsakademi i Aarhus med speciale i <i>Frontend Developer</i>. Her kan min innovative og kreative sjæl få lov til, at udfolde sig og blive udfordret på alle tænklige måder.
+                                        Hejsa! Mit navn er <i>Louise</i> og jeg er 24 år gammel, og til dagligt studerer jeg Multimediedesign på 3. semester på Erhvervsakademi i Aarhus med speciale i <i>Frontend Developer</i>. Her kan min innovative og kreative sjæl få lov til, at udfolde sig og blive udfordret på alle tænklige måder.
                                         Når jeg ikke studerer, så bruger jeg min tid på mit fritidsarbejde i <i>Elgiganten</i> eller på løbebåndet nede i det lokale fitness center.
                                         <br></br><br></br>
 

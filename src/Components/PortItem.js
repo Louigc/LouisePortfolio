@@ -9,7 +9,7 @@ export const PortItem = () => {
 
     useEffect(() => {
         async function getData() {
-            const response = await fetch("https://louisegchristiansen.dk/wp-json/wp/v2/portfolio");
+            const response = await fetch("https://pf-api.louisegchristiansen.dk/wp-json/wp/v2/portfolio");
             const data = await response.json();
             setPosts(data);
         }

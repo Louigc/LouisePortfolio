@@ -435,6 +435,10 @@ font-size: 15px !important;
     margin: auto !important;
   }
 
+  .navn span {
+    color: #f9bcc6;
+  }
+
 /* Jeg styler her mine kompetencer på forsiden */
 
 .kompetencer {
@@ -622,7 +626,10 @@ h2.heading{
   font-size: 18px;
   padding-top: 0.5%;
   padding-bottom: 0.7%;
-  
+}
+
+.projekt_item:hover h2 {
+  color: #f9bcc6;
 }
 
 @media (min-width: 600px) {
@@ -693,6 +700,10 @@ h2.heading{
 .contact img {
   width: 75%;
   padding-bottom: 5%;
+}
+
+.contact b {
+  color: #a68f83;
 }
 
 .contact h2 {

@@ -9,7 +9,7 @@ export const Projekter = () => {
 
     useEffect(() => {
         async function getData() {
-            const response = await fetch("https://louisegchristiansen.dk/wp-json/wp/v2/posts");
+            const response = await fetch("https://pf-api.louisegchristiansen.dk/wp-json/wp/v2/posts");
             const data = await response.json();
 						console.log(data);
             setPosts(data);
