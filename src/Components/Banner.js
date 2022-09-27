@@ -50,7 +50,7 @@ export const Banner = () => {
                       <span className="tagline">Velkommen til min verden!</span>
                       <h1>{`Hejsa! Jeg er Louise Guldbæk Christiansen`} <br></br>
                       <span className="wrap">{text}</span></h1>
-                      <p>Har du brug for hjælp til SOME, grafisk design eller hjemmesider? <br></br> Tag et kig på mit CV og Portfolio!</p>
+                      <p>A multimedia desginer passionate about creating simple yet innovative experiences for users.</p>
                      <a href="#projekter"><button onClick={() => console.log('contact')}>Mine seneste projekter<BsArrowRight size={22}></BsArrowRight></button></a>
                   </Col>
                     {/* Her er mit billede på forsiden */}
